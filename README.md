@@ -2,7 +2,6 @@
 
 `gbx` as prefix or shortcut to GAIAboX.
 
-## gbx.fs
 
 ## GAIAboX "file transfer protocol"
 
