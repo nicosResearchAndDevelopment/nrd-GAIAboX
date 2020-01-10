@@ -1,6 +1,6 @@
 # nrd-GAIAboX
 
-`gbx` as prefix or shortcut to GAIAboX
+`gbx` as prefix or shortcut to GAIAboX.
 
 ## gbx.fs
 
