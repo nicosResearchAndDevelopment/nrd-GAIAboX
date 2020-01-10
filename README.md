@@ -4,9 +4,16 @@
 
 ## gbx.fs
 
-## gbx.ftp
+## GAIAboX "file transfer protocol"
 
-## gbx.ldp
+[GAIAboX "file transfer protocol" (`gbx.ftp`)](./gbx.ftp/README.md).
 
-## gbx.solid
+## GAIAboX "linked data platform"
 
+[GAIAboX "linked data platform" (`gbx.ldp`)](./gbx.ldp/README.md).
+
+## GAIAboX "solid"
+
+[GAIAboX "solid" (`gbx.solid`)](./gbx.solid/README.md).
+
+---
