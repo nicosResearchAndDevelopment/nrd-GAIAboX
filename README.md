@@ -21,7 +21,7 @@
 
 ## GAIAboX "do it yourself"
 
-[`gbx.DIY`](./DIY/README.md).
+[ GAIAboX "do it yourself" (`gbx.DIY`)](./DIY/README.md).
 
 
 ---
