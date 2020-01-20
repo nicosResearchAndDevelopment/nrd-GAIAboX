@@ -2,7 +2,7 @@
 
 #### Download the PDF
 
-From [here](../resources/paperbox_2.pdf).
+From [here](../resources/paperbox_2.pdf?target=_blank).
 
 #### Print it out
 
