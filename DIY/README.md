@@ -11,7 +11,7 @@ The result will be a paper-version of your own GAIAboX. Cut it out the
 
 #### Fold it
 
-...in a way you think it result in a box-like-thingy at the end.
+...in a way you think it results in a box-like-thingy at the end.
 
 #### Stick it
 
