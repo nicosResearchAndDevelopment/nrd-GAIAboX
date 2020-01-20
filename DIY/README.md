@@ -2,12 +2,12 @@
 
 #### Download the PDF
 
-From [here](../resources/paperbox_2.pdf?target=_blank).
+From [here](../resources/paperbox_2.pdf).
 
-#### Print it out
+#### Print it
 
-The result is a paper-version of your own GAIAboX. Cut it out the way
- you think it will be a box-like-thingy at the end.
+The result will be a paper-version of your own GAIAboX. Cut it out the
+ way you think it will be a box-like-thingy at the end.
 
 #### Fold it
 
