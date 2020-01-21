@@ -1,4 +1,4 @@
-# GAIAboX "linked data protocol"
+# GAIAboX "linked data platform"
 
 draft :: GAIAboX in flavour of `linked data platform`  (see: ["Linked
  Data Platform 1.0, W3C Proposed Recommendation 11 December 2014"](https://dvcs.w3.org/hg/ldpwg/raw-file/default/ldp.html)
