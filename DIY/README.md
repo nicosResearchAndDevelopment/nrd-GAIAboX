@@ -1,8 +1,8 @@
 # Do it yourself
 
-#### Download the PDF
+#### Download it
 
-From [here](../resources/paperbox_2.pdf).
+From [here](../resources/GAIAboX.pdf).
 
 #### Print it
 

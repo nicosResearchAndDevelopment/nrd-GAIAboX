@@ -1,4 +1,4 @@
-![](./resources/paperbox_1.png)
+![](./resources/GAIAboX.png)
 
 # nrd-GAIAboX
 
@@ -19,9 +19,10 @@
 
 [GAIAboX "solid" (`gbx.solid`)](./gbx.solid/README.md).
 
+
 ## GAIAboX "do it yourself"
 
-[ GAIAboX "do it yourself" (`gbx.DIY`)](./DIY/README.md).
+[GAIAboX "do it yourself" (`gbx.DIY`)](./DIY/README.md).
 
 
 ---
