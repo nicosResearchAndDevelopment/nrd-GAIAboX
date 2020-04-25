@@ -6,3 +6,4 @@ draft :: GAIAboX in flavour of `linked data platform`  (see: ["Linked
  secure gateway, so called an
  [IDS-connector](https://gitlab.com/ids-g/ids-g/blob/master/glossary/README.md#connector).
 
+——
