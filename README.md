@@ -14,6 +14,11 @@
 
 [GAIAboX "linked data platform" (`gbx.ldp`)](./gbx.ldp/README.md).
 
+## GAIAboX "Binary Operator as a Service (BOaaS)"
+
+
+
+---
 
 ## GAIAboX "solid"
 
