@@ -16,7 +16,7 @@
 
 ## GAIAboX "Binary Operator as a Service (BOaaS)"
 
-
+[Here](./gbx.P/BO).
 
 ---
 
@@ -28,7 +28,5 @@
 ## GAIAboX "do it yourself"
 
 [GAIAboX "do it yourself" (`gbx.DIY`)](./DIY/README.md).
-
-
 
 ---
