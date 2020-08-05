@@ -28,7 +28,7 @@ A Binary Operator (BO), understood as an operator returning
 GAIAboX brings binary operators to life 
  ("Binary Operator as a Service", BOaaS) as usable
  functions. Here they will be
- explained in their different contexts and in
- [detail.](./BO/README.md).
+ explained in their different contexts and in more
+ [detail](./BO/README.md).
 
 ---
