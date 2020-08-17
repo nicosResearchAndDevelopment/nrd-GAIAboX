@@ -5,16 +5,16 @@
 `gbx` as prefix, shortcut or namespace to GAIAboX.
 
 
-## GAIAboX "file transfer protocol"
+## GAIAboX "File Transfer Protocol" (FTP)
 
-[GAIAboX "file transfer protocol" (`gbx.ftp`)](./gbx.ftp/README.md).
+[GAIAboX "File Transfer Protocol" (`gbx.ftp`)](./gbx.ftp/README.md).
 
 
-## GAIAboX "linked data platform"
+## GAIAboX "linked Data Platform" (LDP)
 
 [GAIAboX "linked data platform" (`gbx.ldp`)](./gbx.ldp/README.md).
 
-## GAIAboX "Binary Operator as a Service (BOaaS)"
+## GAIAboX "Binary Operator as a Service" (BOaaS)
 
 [Here](./gbx.P/BO).
 
@@ -25,7 +25,7 @@
 [GAIAboX "solid" (`gbx.solid`)](./gbx.solid/README.md).
 
 
-## GAIAboX "do it yourself"
+## GAIAboX "Do It Yourself"
 
 [GAIAboX "do it yourself" (`gbx.DIY`)](./DIY/README.md).
 
