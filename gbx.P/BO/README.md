@@ -10,6 +10,9 @@ All those operators are brought to service using [The Function Ontology](https:/
 
 To explore those in a way as using them as a service, look at:
  
+In alphabetic order:
+
+- [agent](./agent/README.md)
 - [time](./time/README.md)
 
 ---

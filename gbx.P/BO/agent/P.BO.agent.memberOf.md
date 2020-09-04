@@ -8,7 +8,7 @@
 @prefix gbx: <https://www.nicos-rd.com/GAIAboX/> .
 
 gbx:agentMemberOfExecution
-    a                    fno:Execution ;
+    a                   fno:Funtion ;
 .
 ```
 
@@ -36,7 +36,6 @@ Host: https://gbx.nicos-ag.com
     }
   }
 }
-
 ```
 
 ---
